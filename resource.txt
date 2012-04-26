@@ -1,0 +1,2 @@
+generate clojure api doc:
+http://www.blogjava.net/killme2008/archive/2012/03/21/372409.html
